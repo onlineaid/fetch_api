@@ -1,0 +1,1 @@
+load your text with fatch API... It's easy.
